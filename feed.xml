@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>triggerpoints.marcobarbero.info</title>
+    <link href="https://marcobarbero73.github.io/feed.xml" rel="self" />
+    <link href="https://marcobarbero73.github.io" />
+    <updated>2026-09-10T09:54:14+02:00</updated>
+    <author>
+        <name>Marco Barbero</name>
+    </author>
+    <id>https://marcobarbero73.github.io</id>
+
+    <entry>
+        <title>La storia dei trigger point</title>
+        <author>
+            <name>Marco Barbero</name>
+        </author>
+        <link href="https://marcobarbero73.github.io/primo-blog.html"/>
+        <id>https://marcobarbero73.github.io/primo-blog.html</id>
+
+        <updated>2026-09-10T09:51:56+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    dedasdasdsad asdasdad asdasda
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    dedasdasdsad
+  </p>
+
+  <p>
+    asdasdad
+  </p>
+
+  <p>
+    asdasda
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

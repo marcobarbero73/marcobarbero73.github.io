@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "triggerpoints.marcobarbero.info",
+    "description": "",
+    "home_page_url": "https://marcobarbero73.github.io",
+    "feed_url": "https://marcobarbero73.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Marco Barbero"
+    },
+    "items": [
+        {
+            "id": "https://marcobarbero73.github.io/primo-blog.html",
+            "url": "https://marcobarbero73.github.io/primo-blog.html",
+            "title": "La storia dei trigger point",
+            "summary": "dedasdasdsad asdasdad asdasda",
+            "content_html": "\n  <p>\n    dedasdasdsad\n  </p>\n\n  <p>\n    asdasdad\n  </p>\n\n  <p>\n    asdasda\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Marco Barbero"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-10T09:51:56+02:00",
+            "date_modified": "2026-09-10T09:54:14+02:00"
+        }
+    ]
+}
